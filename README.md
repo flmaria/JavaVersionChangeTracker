@@ -20,7 +20,7 @@ To run this project, you need the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/JavaVersionChangeTracker.git
+   git clone https://github.com/flmaria/JavaVersionChangeTracker.git
 2. **Navigate to the Project Directory:**:
    ```bash
    cd JavaVersionChangeTracker
