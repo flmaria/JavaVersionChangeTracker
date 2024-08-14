@@ -1,4 +1,4 @@
-package io.github.flmaria.java9.interfaceprivatemethod;
+package io.github.flmaria.java_009.interfaceprivatemethod;
 
 public interface Calculator {
 

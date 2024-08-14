@@ -1,4 +1,4 @@
-package io.github.flmaria.java9.factorymethodforImmutablelistsetandmap;
+package io.github.flmaria.java_009.factorymethodforImmutablelistsetandmap;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
