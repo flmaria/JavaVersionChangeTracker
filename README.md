@@ -21,3 +21,16 @@ To run this project, you need the following:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/JavaVersionChangeTracker.git
+2. **Navigate to the Project Directory:**:
+   ```bash
+   cd JavaVersionChangeTracker
+3. **Build the Project::**:
+   ```bash
+   mvn clean install
+4. **Run the Examples:**
+- Explore the io.github.flmaria package to find sub-packages for each Java version.
+- Each sub-package contains a Main.java class. You can run this class directly in your preferred IDE or through the command line to see the examples in action.
+
+## Observation
+
+This project is focused solely on code changes and improvements in the Java language. It does not cover improvements in other areas such as the JVM, tools, libraries, or other aspects of the Java ecosystem. The examples and documentation are specifically designed to illustrate changes in Java syntax, APIs, and other code-level enhancements across different versions.
