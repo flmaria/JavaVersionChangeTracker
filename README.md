@@ -12,11 +12,20 @@ Each Java version's changes and features are organized under the `io.github.flma
 ## Current Java Versions with Examples
 
 - **Java 9**
-   - Factory Methods for Immutable List, Set, Map and Map.Entry: `io.github.flmaria.java_009.factorymethodforImmutablelistsetandmap`
-   - Private methods in Interfaces: `io.github.flmaria.java_009.interfaceprivatemethod`
-   - Process API Improvements: `io.github.flmaria.java_009.processhandle`
-   - Try with resources Improvements: `io.github.flmaria.java_009.trywithresources`
-   - CompletableFuture API Improvements: `io.github.flmaria.java_009.completablefutureapiimprovements`
+  - Factory Methods for Immutable List, Set, Map and Map.Entry: `io.github.flmaria.java_009.factorymethodforImmutablelistsetandmap`
+  - Private methods in Interfaces: `io.github.flmaria.java_009.interfaceprivatemethod`
+  - Process API Improvements: `io.github.flmaria.java_009.processhandle`
+  - Try with resources Improvements: `io.github.flmaria.java_009.trywithresources`
+  - CompletableFuture API Improvements: `io.github.flmaria.java_009.completablefutureapiimprovements`
+  - Reactive Streams: `io.github.flmaria.java_009.reactivestreams` 
+  - Optional Class Improvements: `io.github.flmaria.java_009.optionalclassimprovements`
+  - Stream API Improvements: `io.github.flmaria.java_009.streamapiimprovements`
+- **Java 10**
+  - Local-Variable Type Inference: `io.github.flmaria.java_010.localvariabletype`
+- **Java 11**
+  - String Methods: `io.github.flmaria.java_011.stringmethods`
+  - Local-Variable Syntax For Lambda Parameters: `io.github.flmaria.java_011.varkeywordinlambdaexpression`
+  - Reading/Writing Strings from Files class: `io.github.flmaria.java_011.readwritestringfromfiles`
 
 Each version's sub-package contains a `Main.java` that illustrates these features in a runnable format.
 
