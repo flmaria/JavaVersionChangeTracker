@@ -11,6 +11,27 @@ Each Java version's changes and features are organized under the `io.github.flma
 
 ## Current Java Versions with Examples
 
+- **Java 4 (1.4)**
+  - Assertions: `io.github.flmaria.java_004.assertions`
+  - Regular Expressions: io.github.flmaria.java_004.regularexpressions`
+- **Java 5**
+  - Generics: `io.github.flmaria.java_005.generics`
+  - Concurrency Utilities: `io.github.flmaria.java_005.concurrencyutilities`
+  - Scanner: `io.github.flmaria.java_005.scanner`
+- **Java 7**
+  - Fork/Join Framework: `io.github.flmaria.java_007.forjjoinframework`
+  - NIO.2 (New I/O 2): `io.github.flmaria.java_007.nio2`
+- **Java 8**
+  - Lambda Expressions: `io.github.flmaria.java_008.lambdaexpressions`
+  - Functional Interfaces: `io.github.flmaria.java_008.functionalinterfaces`
+  - Stream API: `io.github.flmaria.java_008.streamapi`
+  - Default Methods: `io.github.flmaria.java_008.defaultmethods`
+  - Optional Class: `io.github.flmaria.java_008.optionalclass`
+  - New Date and Time API (java.time package): `io.github.flmaria.java_008.newdateandtimeapi`
+  - Parallel Array SortingL `io.github.flmaria.java_008.parallelarraysorting`
+  - CompletableFuture and the Concurrency API Enhancements: `io.github.flmaria.java_008.completablefutureandtheconcurrencyapienhancements`
+  - Collectors Class: `io.github.flmaria.java_008.collectorsclass`
+  - Method References: `io.github.flmaria.java_008.methodreferences`
 - **Java 9**
   - Factory Methods for Immutable List, Set, Map and Map.Entry: `io.github.flmaria.java_009.factorymethodforImmutablelistsetandmap`
   - Private methods in Interfaces: `io.github.flmaria.java_009.interfaceprivatemethod`
@@ -26,6 +47,33 @@ Each Java version's changes and features are organized under the `io.github.flma
   - String Methods: `io.github.flmaria.java_011.stringmethods`
   - Local-Variable Syntax For Lambda Parameters: `io.github.flmaria.java_011.varkeywordinlambdaexpression`
   - Reading/Writing Strings from Files class: `io.github.flmaria.java_011.readwritestringfromfiles`
+- **Java 12**
+  - Reimplement the Legacy Socket API: `io.github.flmaria.java_012.reimplementthelegacysocketapi`
+  - Switch Expressions `io.github.flmaria.java_012.switchexpressions`
+- **Java 13**
+  - Text Blocks `io.github.flmaria.java_013.textblocks`
+  - FileSystems.newFileSystem() Method: `io.github.flmaria.java_013.filesystemsnewfilesystemmethod`
+- **Java 14**
+  - Pattern Matching for instanceof: `io.github.flmaria.java_014.patternmatchingforinstanceof`
+  - Records: `io.github.flmaria.java_014.records`
+- **Java 15**
+  - Sealed Classes: `io.github.flmaria.java_015.sealedclasses`
+- **Java 16**
+  - Vector API: `io.github.flmaria.java_016.vectorapi`
+- **Java 17**
+  - Pattern Matching for switch: `io.github.flmaria.java_017.patternmatchingforswitch`
+  - Context-Specific Deserialization Filters: `io.github.flmaria.java_017.contextspecificdeserializationfilters`
+  - Enhanced Pseudo-Random Number Generators: `io.github.flmaria.java_017.enhancedpseudorandomnumbergenerators`
+- **Java 18**
+  - Simple Web Server: `io.github.flmaria.java_018.simplewebserver`
+- **Java 19**
+  - Virtual Threads: `io.github.flmaria.java_019.virtualthreads`
+- **Java 21**
+  - Sequenced Collections: `io.github.flmaria.java_021.sequencedcollections`
+- **Java 22**
+  - Unmodifiable Collection Factory Methods: `io.github.flmaria.java_022.unmodifiablecollectionfactorymethods`
+  - New APIs for Daylight Saving Time and Leap Seconds: `io.github.flmaria.java_022.newapisfordaylightsavingtimeandleapseconds`
+
 
 Each version's sub-package contains a `Main.java` that illustrates these features in a runnable format.
 
@@ -34,7 +82,7 @@ Each version's sub-package contains a `Main.java` that illustrates these feature
 
 To run this project, you need the following:
 
-- **Java 20**: This project requires Java 20 as it leverages the latest language features and improvements.
+- **Java 22**: This project requires Java 22 as it leverages the latest language features and improvements.
 - **Maven**: The project uses Maven for dependency management, particularly for managing the SLF4J logger dependency.
 
 ## How to Use
